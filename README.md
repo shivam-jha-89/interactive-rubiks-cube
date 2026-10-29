@@ -123,8 +123,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/Gustu/3d-tic-tac-toe)
-- [Report Issues](https://github.com/Gustu/3d-tic-tac-toe/issues)
+- [GitHub Repository](https://github.com/shivam-jha-89/interactive-rubiks-cube)
+- [Report Issues](https://interactive-rubiks-cube-pearl.vercel.app/)
 
 ---
 
