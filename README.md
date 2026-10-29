@@ -27,7 +27,7 @@ A modern, interactive 3D tic-tac-toe game built with React, TypeScript, and Thre
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Gustu/3d-tic-tac-toe.git
+git clone https://github.com/shivam-jha-89/interactive-rubiks-cube
 cd 3d-tic-tac-toe
 ```
 
